@@ -1,4 +1,4 @@
-# class-project
+# molecule-maker
 University course projects and assignments
 
 # projects
